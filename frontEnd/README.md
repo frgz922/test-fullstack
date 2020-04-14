@@ -1,4 +1,4 @@
-# vuejsauth
+# vuejs authentication
 
 ## Project setup
 ```
